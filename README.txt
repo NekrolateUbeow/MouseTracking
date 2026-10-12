@@ -22,7 +22,7 @@ Yêu cầu
 ------
 - Windows.
 - VTube Studio đang chạy và bật Public API trên cổng được cấu hình.
-- .NET SDK 8 để biên dịch mã nguồn.
+- .NET SDK 9 để biên dịch mã nguồn.
 
 Cách chạy
 ---------
