@@ -1,3 +1,4 @@
+Lastest Update: https://github.com/NekrolateUbeow/MouseTracking/releases/download/v1.0.0/MouseTracking.exe
 MouseTracking - tài liệu sử dụng
 ==============================
 
